@@ -1,0 +1,59 @@
+.flex-containter{
+    width: 500px;
+        padding: 20px;
+        margin: 25px;
+        float: right;
+    }
+    .float{
+        float: right;
+        margin-left:10px ;
+        padding-left: 10px;
+    }
+    
+    
+    .email{
+    
+    border: 1px solid gray;
+    font-size: 10px;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    text-indent: 100px;
+    }
+    
+    .password{
+    border: 1px solid gray;
+    border-radius: 8px;
+    font-size: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    }
+    
+    .log{
+        border: none;
+        border-radius: 8px;
+        padding: 10px;
+        margin: 10px;
+        color: white;
+        background-color: blue;
+        font-size: 20px;
+        text-align: center;
+    }
+    .button{
+        border: 1px solid gray;
+        border-radius: 8px;
+        padding: 10px;
+        margin: 10px;
+        color: white;
+        background-color: green;
+        font-size: 20px;
+    }
+    
+    .footer{
+        font-size: 15px;
+        color: gray;
+        padding-bottom: 10px;
+        margin: 10px;
+    }
